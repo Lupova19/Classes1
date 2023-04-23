@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Classes1\Family\bin\Debug\Family.exe.config
+C:\Users\Admin\Desktop\Lupova19\Classes1\Family\bin\Debug\Family.exe
+C:\Users\Admin\Desktop\Lupova19\Classes1\Family\bin\Debug\Family.pdb
+C:\Users\Admin\Desktop\Lupova19\Classes1\Family\obj\Debug\Family.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Classes1\Family\obj\Debug\Family.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Classes1\Family\obj\Debug\Family.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Classes1\Family\obj\Debug\Family.exe
+C:\Users\Admin\Desktop\Lupova19\Classes1\Family\obj\Debug\Family.pdb
